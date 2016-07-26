@@ -1,1 +1,3 @@
-Learning Git hub
+Learning Git hub and git commands
+
+From anywhere i can use git hub
